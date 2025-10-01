@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+.Itim{
+  font-family:Itim;
+}
+
+body{
+  background-image:url(assets/m-4.jpg)  ;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
